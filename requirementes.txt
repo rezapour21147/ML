@@ -1,3 +1,0 @@
-jdatetime==4.0.0
-mpmath==1.2.1
-sympy==1.9
